@@ -1,5 +1,7 @@
 # Spring Boot 3 QueryDSL
 
+[QueryDSL Issue](https://github.com/querydsl/querydsl/issues/3439)
+
 This project is a reproduction of a bug in QueryDSL 5.0.0 used in conjunction with Spring Boot 3.
 
 The bug is likely caused by going from Hibernate 5.6 to 6.0.
