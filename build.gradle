@@ -55,7 +55,6 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
   // querydsl dependencies
-  implementation 'com.querydsl:querydsl-core:5.0.0'
   implementation group: 'com.querydsl', name: 'querydsl-jpa', version: '5.0.0', classifier: 'jakarta'
   annotationProcessor group: 'com.querydsl', name: 'querydsl-apt', version: '5.0.0', classifier: 'general'
 }
